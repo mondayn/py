@@ -1,6 +1,6 @@
-# py
+# gitCommands
 
-# if necessary pull down project
+//if necessary pull down project
 git clone https://github.com/mondayn/py.git
 
 #if necessary set
