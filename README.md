@@ -1,5 +1,11 @@
 Learning python in this folder.
 
-pwAnalysis examines passwords released after Yahoo hack.
+⋅⋅* pwAnalysis examines passwords released after Yahoo hack.
+⋅⋅* emailAnalysis looks at most frequent senders to my gmail account.
+⋅⋅* nonLinear: an exercise in forecasting non-linear values.
 
-emailAnalysis looks at most frequent senders to my gmail account.
+
+*  pwAnalysis examines passwords released after Yahoo hack.
+*  emailAnalysis looks at most frequent senders to my gmail account.
+* nonLinear: an exercise in forecasting non-linear values.
+
