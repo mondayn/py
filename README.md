@@ -15,8 +15,7 @@ Learning python in this folder.
 4.  ocrTesseract: testing reknowned optical character recogition package
 
 
-5.  arima/emailAnalysis: scripted extract of my gmail headers. then analyzed most frequent senders. 
- * *to do: cleanup*
+5.  emailAnalysis: scripted extract of my gmail headers. look at top senders.  perform various time series forecasts
 
 
 6.  fileCleanup: analyze geo tags and clean up duplicate images on home computer
