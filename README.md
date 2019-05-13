@@ -10,8 +10,7 @@ Learning python in this folder.
 
 3. pwAnalysis examines passwords released after Yahoo hack
  * uses ray multithreading and some nltk
- * *to do: dd ngram, investigate stemming and fuzzy uses phoeneticjellyfish*
-
+ * *to do: add ngram
 
 4.  ocrTesseract: testing reknowned optical character recogition package
 
