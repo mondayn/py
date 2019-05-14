@@ -15,7 +15,7 @@ Learning python in this folder.
 4.  ocrTesseract: testing reknowned optical character recogition package
 
 
-5.  emailAnalysis: scripted extract of my gmail headers. look at top senders.  perform various time series forecasts
+5.  emailAnalysis: scripted extract of my gmail headers. look at top senders.  time series forecast: arima, bayesian, lstm.
 
 
 6.  fileCleanup: analyze geo tags and clean up duplicate images on home computer
