@@ -19,3 +19,5 @@ Learning python in this folder.
 
 
 6.  fileCleanup: analyze geo tags and clean up duplicate images on home computer
+
+7. jobClassify: clusters job postings.  uses lime text to describe clusters.
