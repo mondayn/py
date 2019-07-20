@@ -1,25 +1,23 @@
 Learning python in this folder.
 
-1. nashvilleCrashes: time series analysis of local traffic.  
- * uses fbprophet to analyze seasonality
- * *to do: add plotly graphic*
+- nonLinear: an exercise in forecasting non-linear values using sklearn and keras. 
 
 
-2. nonLinear: an exercise in forecasting non-linear values using sklearn and keras. 
+**time series**
+- nashvilleCrashes: analysis of local traffic.  uses fbprophet to analyze seasonality
+- anomalies: uses sklearn, keras and pyod to identify outliers in stock price
 
 
-3. pwAnalysis examines passwords released after Yahoo hack
- * uses ray multithreading and some nltk
- * *to do: add ngram
-
-4.  ocrTesseract: testing reknowned optical character recogition package
-
-
-5.  emailAnalysis: scripted extract of my gmail headers. look at top senders.  time series forecast: arima, bayesian, lstm.
+**text**
+- pwAnalysis examines passwords released after Yahoo hack.  uses ray multithreading and some nltk
+- jobClassify: clusters job postings.  uses lime text to describe clusters.
+- ocrTesseract: testing optical character recogition package
 
 
-6.  fileCleanup: analyze geo tags and clean up duplicate images on home computer
+**other**
+- fileCleanup: analyze geo tags and clean up duplicate images on home computer
+- emailAnalysis: scripted extract of gmail headers. look at top senders.  time series forecast: arima, bayesian, lstm.
 
-7. jobClassify: clusters job postings.  uses lime text to describe clusters.
 
-8. transferLearning: image detection using deep learning weights from inception.
+**image**
+- transferLearning: image detection using deep learning weights from inception.
